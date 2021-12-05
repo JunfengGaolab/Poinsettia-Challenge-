@@ -1,0 +1,13 @@
+<image_name> <confidence> <xmin> <ymin> <xmax> <ymax>
+
+Like:
+
+
+poinsettia64 1.000 285.9 486.6 430.8 738.9
+poinsettia24 0.024 181.5 482.4 395.9 707.2
+poinsettia24 0.018 229.4 329.0 358.1 428.0
+poinsettia3 0.986 148.4 471.5 348.8 638.4
+poinsettia3 0.046 223.8 443.4 296.1 515.6
+
+
+

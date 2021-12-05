@@ -1,0 +1,8 @@
+<image_name> <confidence> <xmin> <ymin> <xmax> <ymax>
+
+Like:
+
+poinsettia64 0.999 216.1 104.4 526.9 502.0
+poinsettia6 0.010 0.7 165.5 73.2 269.1
+poinsettia88 0.999 189.0 304.8 444.7 510.0
+
