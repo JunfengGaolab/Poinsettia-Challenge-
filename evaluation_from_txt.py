@@ -17,7 +17,7 @@ def do_python_eval():
     aps = []
     
     for i, cls in enumerate(labelmap):
-        filename = './detection/det_test_'+cls+'.txt'
+        filename = './detection_submit/det_test_'+cls+'.txt'
         rec, prec, ap, error = voc_eval(
            filename, annopath, imgsetpath.format('test'), cls,
            ovthresh=0.5, use_07_metric=True)
