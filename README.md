@@ -15,7 +15,7 @@ Numeric values of the labelled coordinates are stored in .xml files. All the lab
 │   ├── *.JPEG (the poinsettia images)
 ```
 ## Running the SSD code
-Step1: new weights folder, zip the VOC2007.zip file into data/, put vgg16_reducedfc.pth into weights folder;
+Step1: zip the VOC2007.zip file into data/, put vgg16_reducedfc.pth into weights/ folder;
 
 Step2: running the train.py;
 
