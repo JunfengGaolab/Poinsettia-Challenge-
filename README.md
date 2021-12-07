@@ -22,7 +22,7 @@ Step2: running the train.py;
 Step3: eval.py to get mAP
 
 ## Detection results
-The red rectangular is ground truth, and the blue is the prediction bounding box of SSD detection model.
+The red rectangular is ground truth, and the blue is the prediction bounding box of SSD detection model, the score is confidence of pot and poinsettia classification.
 
 poinsettia64            |  poinsettia35
 :-------------------------:|:-------------------------:
